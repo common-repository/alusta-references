@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: alusta-references\n"
+"POT-Creation-Date: 2020-08-21 10:38+0500\n"
+"PO-Revision-Date: 2020-08-21 10:39+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: alusta_ref_options.php\n"
+"X-Poedit-SearchPath-1: alusta-references.php\n"
+"X-Poedit-SearchPath-2: single-alusta-references.php\n"
+
+#: alusta-references.php:117
+msgid "References"
+msgstr ""
+
+#: alusta-references.php:118
+msgid "Reference"
+msgstr ""
+
+#: alusta-references.php:1190
+msgid "Kuvia projektista"
+msgstr "Pictures from the project"
+
+#: alusta-references.php:1192
+msgid "Ennen"
+msgstr "Before"
+
+#: alusta-references.php:1196
+msgid "Aikana"
+msgstr "During"
+
+#: alusta-references.php:1200
+msgid "Jälkeen"
+msgstr "After"
+
+#: alusta-references.php:1203
+msgid "Perustiedot projektista"
+msgstr "Basic information about the project"
+
+#: alusta-references.php:1205
+msgid "Etunimi "
+msgstr "First name "
+
+#: alusta-references.php:1209
+msgid "Sukunimi"
+msgstr "Last Name"
+
+#: alusta-references.php:1213 single-alusta-references.php:27
+msgid "Asunnon tyyppi"
+msgstr "Appartment Type"
+
+#: alusta-references.php:1215
+msgid "Rivitalo"
+msgstr "Terraced house"
+
+#: alusta-references.php:1215
+msgid "Omakotitalo"
+msgstr "Town house"
+
+#: alusta-references.php:1215
+msgid "Paritalo"
+msgstr "Paritalo"
+
+#: alusta-references.php:1215
+msgid "Kerrostalo"
+msgstr "Block of flats"
+
+#: alusta-references.php:1218 single-alusta-references.php:28
+msgid "Rakennusvuosi"
+msgstr "Constraction Year"
+
+#: alusta-references.php:1222 single-alusta-references.php:30
+msgid "Sijainti"
+msgstr "Location"
+
+#: alusta-references.php:1226 single-alusta-references.php:29
+msgid "Remontin tyyppi"
+msgstr "Type of repair"
+
+#: alusta-references.php:1228
+msgid "Kattoremontti"
+msgstr "Roof renovation"
+
+#: alusta-references.php:1228
+msgid "Ikkunaremontti"
+msgstr "Window repair"
+
+#: alusta-references.php:1228
+msgid "Ulkovuoriremontti"
+msgstr "Exterior lining renovation"
+
+#: alusta-references.php:1228
+msgid "Maalausremontti"
+msgstr "Painting renovation"
+
+#: alusta-references.php:1228
+msgid "Putkiremontti"
+msgstr "Pipe repair"
+
+#: alusta-references.php:1228
+msgid "Lämmitysremontti"
+msgstr "Heating renovation"
+
+#: alusta-references.php:1228
+msgid "Salaojaremontti"
+msgstr "Sewer repair"
+
+#: alusta-references.php:1228
+msgid "Sisäremontti"
+msgstr "Interior renovation"
+
+#: alusta-references.php:1230
+msgid "Kerro tarkemmin remontista"
+msgstr "Tell us more about the renovation"
+
+#: alusta-references.php:1232
+msgid "Miksi päätitte tehdä remontin?"
+msgstr "Why did you decide to do the renovation?"
+
+#: alusta-references.php:1236
+msgid "Millä perusteella valitsitte?"
+msgstr "On what basis did you choose?"
+
+#: alusta-references.php:1240
+msgid "Miten remontti meni?"
+msgstr "How did the renovation go?"
+
+#: alusta-references.php:1244
+msgid "Oletteko tyytyväisiä lopputulokseen?"
+msgstr "Are you happy with the outcome?"
+
+#: alusta-references.php:1248
+msgid "Voisitteko antaa työstä julkisen arvion?"
+msgstr "Could you give a public assessment of the work?"
+
+#: alusta-references.php:1384
+msgid "Näytä kaikki"
+msgstr "View All"

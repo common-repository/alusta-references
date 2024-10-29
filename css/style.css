@@ -1,0 +1,327 @@
+.project_listing_outer {}
+.project_listing_inner {
+	margin-bottom: 175px;
+}
+.project_listing_inner:last-child {
+	margin-bottom: 65px;
+}
+.project_listing_outer a.more_news {
+	margin-top: 20px;
+}
+
+.projec_box {}
+.proj_image {
+	position: relative;
+}
+.proj_image_with_desc {
+	box-shadow: 0px 0px 20px rgba(127, 139, 143, 0.5);
+	/* position: relative; */
+}
+.proj_image_with_desc img {
+	width: 100%;
+}
+.proj_image_with_desc ul {
+	min-height: 100px;
+	list-style: none;
+	padding: 20px;
+	margin: 0;
+}
+.proj_image_with_desc ul li {
+	display: inline-block;
+	vertical-align: middle;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.proj_image_with_desc ul li img {
+	max-width: 52px;
+	max-height: 52px;
+	border-radius: 50%;
+}
+.image_bottom_frame {
+	height: 33px;
+	box-shadow: 0px 7px 9px rgba(127, 139, 143, 0.2);
+	width: 86%;
+	margin: auto;
+	z-index: -999999;
+	position: absolute;
+	/* bottom: -23px; */
+	left: 0;
+	right: 0;
+}
+.proj_desc {
+	padding-right: 10%;
+}
+.proj_title {
+	font-size: 38px;
+	line-height: 1.2;
+	margin-bottom: 30px;
+}
+.proj_expe {
+	margin-bottom: 50px;
+}
+a.proj_link {
+	font-size: 16px;
+	transition: all 0.5s;
+}
+a.proj_link:visited {
+	color: #000;
+}
+a.proj_link i {
+	color: #f76f0b;
+	font-size: 22px;
+	vertical-align: middle;
+	margin-left: 7px;
+	transition: all 0.5s;
+}
+a.proj_link:hover {
+	color: #f76f0b;
+}
+a.proj_link:hover i { 
+	margin-left: 15px; 
+	transition: 0.5s;
+}
+.al_ref_row {
+	margin-bottom: 10px;
+}
+.al_ref_row_heading {
+	font-size: 24px;
+	padding-top: 20px;
+}
+.al_ref_row label{
+	display: block;
+	margin-bottom: 0px;
+}
+.alus_input_f {
+	width: 100%;
+	height: 45px;
+	padding-left: 10px;
+	font-size: 16px;
+	border: 1px solid #ddd;
+	outline: 0;
+}
+.alus_input_file {
+	height: auto;
+	width: auto;
+	background-color: transparent;
+	border: 0;
+	padding-left: 0;
+}
+.alus_textarea_f {
+	width: 100%;
+	padding-left: 10px;
+	font-size: 16px;
+	border: 1px solid #ddd;
+	outline: 0;
+	height: 150px;
+}
+.al_ref_rdio_row {
+}
+.al_ref_rdio_row img{
+	max-width: 38px;
+}
+.al_ref_rdio_row span {
+	display: inline-block;
+	margin-right: 12px;
+}
+.al_ref_rdio_row span input{
+}
+.al_ref_rdio_row span label {
+	display: inline-block;
+	margin-left: 10px;
+}
+.alus_form_sbt {
+	margin-top: 20px;
+}
+.save_msg {
+	width: 100%;
+	background: #00A722;
+	color: #fff;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.yearpicker-container {
+    position: absolute;
+    color: #555;
+    width: 280px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: initial;
+    box-shadow: 1px 1px 8px 0px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+    z-index: 10;
+    margin-top: 0.2rem;
+}
+
+.yearpicker-header {
+    display: flex;
+    width: 100%;
+    height: 2.5rem;
+    border-bottom: 1px solid #ccc;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.yearpicker-prev,
+.yearpicker-next {
+    cursor: pointer;
+    font-size: 2rem;
+}
+
+.yearpicker-prev:hover,
+.yearpicker-next:hover {
+    color: #555;
+}
+
+.yearpicker-year {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0.5rem;
+}
+
+.yearpicker-items {
+    list-style: none;
+    padding: 1rem 0.5rem;
+    flex: 0 0 33.3%;
+    width: 100%;
+}
+
+.yearpicker-items:hover {
+    background-color: #eee;
+    color: rgb(56, 241, 164);
+    cursor: pointer;
+}
+
+.yearpicker-items.selected {
+    color: rgb(56, 241, 164);
+}
+
+.hide {
+    display: none;
+}
+
+.yearpicker-items.disabled {
+    pointer-events: none;
+    color: #bbb;
+}
+.alusta_references_content {
+	margin-bottom: 5rem;
+}
+.a_reference_banner_image {
+	margin-bottom: 30px;
+}
+.a_reference_featured_info {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.a_reference_featured_info ul {
+	list-style: none;
+	overflow: hidden;
+	padding: 0px;
+	margin: 0
+}
+.a_reference_featured_info ul li {
+	width: 50%;
+	float: left;
+	margin-bottom: 10px;
+}
+.a_reference_featured_info ul li label{
+	font-weight: 600;
+	display: block;
+}
+.a_reference_featured_info ul li span{}
+.a_reference_short_desc{}
+.a_reference_slider {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.a_reference_slider.owl-carousel .owl-nav button.owl-next, .a_reference_slider.owl-carousel .owl-nav button.owl-prev {
+	position: absolute;
+	top: 40%;
+	font-size: 30px;
+	cursor: pointer;
+}
+.a_reference_slider.owl-carousel .owl-nav button.owl-next {
+	right: -40px;
+}
+.a_reference_slider.owl-carousel .owl-nav button.owl-prev {
+	left: -40px;
+}
+.a_reference_call_to_action_btn {
+	text-align: center;
+	padding-top: 20px;
+}
+.a_reference_call_to_action_btn a {
+	display: inline-block;
+	background: #000;
+	padding: 10px 25px;
+	border-radius: 4px;
+	color: #fff;
+	border: 1px solid #000;
+}
+.a_reference_call_to_action_btn a:hover{	
+	background: #fff;
+	color: #000;
+}
+.a_reference_slider .image_item {
+	text-align: center;
+}
+.a_reference_slider.owl-carousel .owl-item img {
+	display: inline-block;
+	width: auto;
+	max-height: 385px;
+}
+.a_reference_qas{
+	margin-bottom: 30px;
+}
+.a_reference_banner_image img{
+	max-width: 100%;
+	display: inline-block;
+}
+h2.projec_archive_heading {
+	text-align: center;
+	margin-bottom: 40px;
+}
+.references_listing_archive{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+@media (min-width:768px){
+.project_listing_inner .row {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	margin-right: -15px;
+	margin-left: -15px;
+}
+.project_listing_inner .align-items-center{
+	-ms-flex-align: center !important;
+	align-items: center !important;
+}
+.project_listing_inner .col-md-12{
+	-ms-flex: 0 0 100%;
+	flex: 0 0 100%;
+	max-width: 100%;	
+}
+.project_listing_inner .col-md-7 {
+	-ms-flex: 0 0 58.333333%;
+	flex: 0 0 58.333333%;
+	max-width: 58.333333%;
+}
+.project_listing_inner .col-md-5 {
+	-ms-flex: 0 0 41.666667%;
+	flex: 0 0 41.666667%;
+	max-width: 41.666667%;
+}
+}
+@media (max-width: 480px) {
+h1a.a_reference_title {
+	font-size: 26px;
+}
+}
